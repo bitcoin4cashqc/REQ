@@ -5,7 +5,7 @@ A Python client for the Quebec Business Register (Registre des entreprises du Qu
 """
 
 from .req import REQ
-from .types import (
+from .typess import (
     ListeEntreprises,
     REQSearchResponse,
     REQRequest,

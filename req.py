@@ -1,6 +1,6 @@
 from typing import Optional, Any, Dict
 import cloudscraper
-from .types import REQSearchResponse, SearchOptions, ListeEntreprises
+from .typess import REQSearchResponse, SearchOptions, ListeEntreprises
 
 
 BASE_URL = "https://www.registreentreprises.gouv.qc.ca/RQAnonymeGR/GR/GR03/GR03A2_20A_PIU_RechEntMob_PC/ServiceCommunicationInterne.asmx"
